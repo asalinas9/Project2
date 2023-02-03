@@ -19,7 +19,7 @@
     "express-sessions": "^1.0.6",
     "mysql2": "^1.6.5",
     "node-fetch": "^3.2.10",
-    "nodemon": "^2.0.3",
+    "nodemon": "^2.0.20",
     "qs": "^6.9.7",
     "sequelize": "^5.8.6"
   },
