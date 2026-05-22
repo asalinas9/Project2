@@ -13,14 +13,14 @@
   "dependencies": {
     "bcrypt": "^6.0.0",
     "dotenv": "^8.2.0",
-    "express": "^4.22.1",
+    "express": "^4.22.2",
     "express-handlebars": "^5.3.1",
     "express-session": "^1.18.2",
     "express-sessions": "^1.0.6",
     "mysql2": "^3.9.8",
     "node-fetch": "^3.2.10",
     "nodemon": "^2.0.20",
-    "qs": "^6.14.2",
+    "qs": "^6.15.2",
     "sequelize": "^6.37.8"
   },
   "devDependencies": {
