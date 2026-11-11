@@ -20,7 +20,7 @@
     "mysql2": "^3.23.1",
     "node-fetch": "^3.2.10",
     "nodemon": "^2.0.20",
-    "qs": "^6.16.0",
+    "qs": "^6.17.1",
     "sequelize": "^6.37.8"
   },
   "devDependencies": {
